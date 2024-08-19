@@ -1,0 +1,35 @@
+Per quanto riguarda la relazione io l'avrei pensata in questo modo:
+
+Titolo (da decidere alla fine)
+Indice ...
+
+Introduzione -> qui spiego che cosa si andrà a discutere e introduco brevemente l'analisi causale,l'ANN e machine learning
+
+Capitolo 1 -> parlo dell'algoritmo PCMCI e quindi sua definizione
+1.1 -> spiegazione algoritmo PC
+1.2 -> spiegazione algoritmo MCI
+1.3 -> proprietà dell'algoritmo PCMCI
+
+Capitolo 2 -> parlo dell'ANN e del machine learning (devo ancora vedere bene e decidere la suddivisione in sottoparagrafi)
+
+Capitolo 3 -> esempio pratico, ovvero mostro i vari grafici ottenuti dal codice e dando una spiegazione ad ogni parte, 
+ovvero perché è stato fatto e qual è il suo significato
+
+Conclusione -> spiego la relazione che c'è tra le due parti (sempre se non ho capito male il tema della tesi)
+
+
+
+Oppure:
+si mantiene bene o male la stessa struttura ma nel capitolo 1 parlo dell'analisi causale e i vari sottoparagrafi sono:
+    - definizione algoritmo pcmci;
+    - pc;
+    - mci,
+    - proprietà del pcmci
+
+e nel capitolo 2 rimane uguale ma tolgo la spiegazione dell'ANN e ML dall'introduzione e la inserisco direttamente qui
+
+tutto il resto rimane uguale a sopra
+
+Poi volevo anche sapere, dato che mi confondo sempre, se alla fine la tesi riguarda l'analisi causale e la ML e la loro relazione,
+visto che sugli stessi dati effettuo PCMCI e ML per poi vedere se c'è una relazione, o è semplicemente l'analisi di una time series
+e trovare le cause, o comunque le influenze, ad un determinato evento (es. intensità carbonio) e relativa previsione utilizzando la ML 
